@@ -114,3 +114,17 @@ font-size: 35px;
   font-family: Georgia, 'Times New Roman', Times, serif;
  
 }
+/*Contact Us*/
+.mess_con{
+ padding: 10px;
+}
+.mess_con input{
+  width:60%;
+}
+.mess_con1{
+  padding:10px;
+}
+textarea{
+  width:60%;
+  height: 50px;
+}
